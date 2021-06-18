@@ -12,7 +12,7 @@ public class TestShahinClass {
 		}else {
 			System.out.println("nothing");
 		}
-
+System.out.print("hi shahin a check it ");
 	}
 
 }
